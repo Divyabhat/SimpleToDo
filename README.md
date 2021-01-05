@@ -23,4 +23,4 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/divya/Documents/Jan-04-2021%2022-52-09.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
